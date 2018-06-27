@@ -20,6 +20,7 @@ Inactive proposals are proposals that at one point were presented to the committ
 | [`%constructor%.construct`][construct]                               | James M Snell                        | Withdrawn |
 | [`Builtins.typeOf()` and `Builtins.is()`][is-types]                  | James M Snell                        | Withdrawn: can be solved in other ways |
 | [Tagged Collection Literals][collection-literals]                    | Kat Marchán                          | Withdrawn: pursuing `when new` syntax and other alternatives |
+| [Observable][observable]                                             | Jafar Husain, Mark Miller            | Withdrawn |
 
 See also the [stage 0 proposals](stage-0-proposals.md), [active proposals](README.md), and [finished proposals](finished-proposals.md) documents.
 
